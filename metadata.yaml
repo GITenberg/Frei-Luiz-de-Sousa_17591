@@ -17,6 +17,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Almeida_Garrett
     - http://en.wikipedia.org/wiki/Almeida_Garrett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17591#Frei-Luiz-de-Sousa
 gutenberg_bookshelf: PT Teatro
 gutenberg_issued: '2006-01-23'
 gutenberg_type: Text
