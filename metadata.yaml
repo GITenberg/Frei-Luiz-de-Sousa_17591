@@ -1,0 +1,33 @@
+_repo: Frei-Luiz-de-Sousa_17591
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Almeida Garrett, João Batista da Silva Leitão de, Visconde de
+    aliases:
+    - Garrett, João Batista da Silva Leitão de Almeida Garrett, Visconde de Almeida
+    - Garret, Almeida
+    birthdate: 1799
+    deathdate: 1854
+    gutenberg_agent_id: '7478'
+    url: http://www.gutenberg.org/2009/agents/7478
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Almeida_Garrett
+    - http://en.wikipedia.org/wiki/Almeida_Garrett
+description: ''
+gutenberg_bookshelf: PT Teatro
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17591'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Sousa, Luís de, 1555?-1632'
+title: Frei Luiz de Sousa
+url: http://www.gutenberg.org/ebooks/17591
